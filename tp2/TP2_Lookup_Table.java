@@ -5,14 +5,6 @@ import ij.plugin.filter.PlugInFilter;
 import ij.process.ImageProcessor;
 
 public class TP2_Lookup_Table implements PlugInFilter {
-
-	/**
-	 * A faire / rendre
-	 * Algo de base sur NG
-	 * Avec LUT
-	 * Avec applyTable
-	 * Comment faire en RGB ?
-	 */
 	
 	@Override
 	public void run(ImageProcessor ip) {
