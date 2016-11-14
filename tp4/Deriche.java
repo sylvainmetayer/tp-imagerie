@@ -1,3 +1,5 @@
+package tp4;
+
 /**
  * @author Thomas BOUDIER (Institut Pierre et Marie Curie)
  * @version 21/11/2006 (repris par Jacques-Olivier Lachaud)
